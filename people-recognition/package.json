@@ -1,0 +1,17 @@
+{
+  "name": "people-recognition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "face-recognition": "^0.9.4",
+    "moment": "^2.24.0",
+    "opencv4nodejs": "^5.5.0"
+  }
+}
